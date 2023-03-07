@@ -1,7 +1,10 @@
-### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/0a4ff8ad-2a48-4216-80b2-772b9251efb9.svg)](https://wakatime.com/@0a4ff8ad-2a48-4216-80b2-772b9251efb9)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pugafran)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexZeLoCO&langs_count=10&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **pugafran/pugafran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
