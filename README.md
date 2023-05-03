@@ -6,6 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexZeLoCO&langs_count=10&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![be5b2b6f4b0e35a5b33f5fe7b9d6c357](https://user-images.githubusercontent.com/67395721/235962358-92fde8f3-6a87-47b0-bf91-684a44709dbe.gif)
+
 
 **pugafran/pugafran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
