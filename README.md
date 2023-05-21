@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexZeLoCO&langs_count=10&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://puga.page">
     <img src="https://user-images.githubusercontent.com/67395721/235962358-92fde8f3-6a87-47b0-bf91-684a44709dbe.gif" alt="texto alternativo" style="display:block; margin:auto;">
