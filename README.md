@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <a href="https://wakatime.com/@pugafran">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugafran&langs_count=10&count_private=true&theme=transparent&custom_title=Github" alt="Github stats">
+  </a>
+</p>
+
+
 -->
 
 
@@ -34,9 +42,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@pugafran">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugafran&langs_count=10&count_private=true&theme=transparent&custom_title=Github" alt="Github stats">
-  </a>
-</p>
+
 
