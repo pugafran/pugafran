@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pugafran&langs_count=10&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pugafran&langs_count=10&hide=Python&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://puga.page">
