@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 -->
 
 
-
+<p align="center">
+  <a href="https://puga.page">
+    <img src="https://user-images.githubusercontent.com/67395721/235962358-92fde8f3-6a87-47b0-bf91-684a44709dbe.gif" alt="texto alternativo">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://wakatime.com/@pugafran">
@@ -30,9 +34,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://puga.page">
-    <img src="https://user-images.githubusercontent.com/67395721/235962358-92fde8f3-6a87-47b0-bf91-684a44709dbe.gif" alt="texto alternativo">
-  </a>
-</p>
+
 
