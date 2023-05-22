@@ -34,5 +34,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://wakatime.com/@pugafran">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugafran&langs_count=10&count_private=true&theme=transparent" alt="Wakatime stats">
+  </a>
+</p>
 
