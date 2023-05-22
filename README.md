@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://wakatime.com/@pugafran">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pugafran&hide=Other&theme=transparent" alt="Wakatime stats">
   </a>
 </p>
