@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://wakatime.com/@pugafran">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pugafran&hide=Other,Binary&langs_count=10&theme=transparent" alt="Wakatime stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pugafran&hide=Other,Binary&langs_count=15&theme=transparent" alt="Wakatime stats">
   </a>
 </p>
 
