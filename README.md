@@ -41,5 +41,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pugafran&hide=Other,Binary&langs_count=15&theme=transparent" alt="Wakatime stats">
   </a>
 </p>
-
-![](https://github-contrib-stats.vercel.app/pugafran/contributed.svg?theme=tokyonight)
